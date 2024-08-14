@@ -6,7 +6,7 @@
   "homepage": "https://github.com/iqura9/React-Interview-Render-Optimisation-Task",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
