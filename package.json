@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/iqura9/React-Interview-Render-Optimisation-Task",
+  "homepage": "https://github.com/iqura9/React-Interview-Render-Optimisation-Task/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
